@@ -1,0 +1,1 @@
+# git öğrenme amaçlı yapılmış bir test
